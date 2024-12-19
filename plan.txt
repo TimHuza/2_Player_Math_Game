@@ -1,0 +1,35 @@
+1. I need to from time import sleep
+
+2. I need function "load_players" to load 2 players
+ - I need to ask first and second player for name
+ - Next I need players to press y to know that they ready
+ - validate that players actually press "y" (you can use a loop to keep asking until they do).
+
+3. I need function "math" that will pick random number from 1 to 12
+ - In this function I need list of operators like +, -, *
+ - In math function I need randomly pick operator and number
+
+4. Print to users what rules are like:
+ - you will have ten math questions
+ - the operators will be +, -, *
+ - who will answer more of them he won
+ - when player press "y" which means they ready will be a timer for 3 seconds.
+ - print good luck
+
+5. I need to ask player 1 whenever he is ready to click on y so I know that he is ready
+ - When he pressed y then I need with for loop print timer like "The game starts in 1 2 3"
+
+6. Next I need ask 10 math questions for player 1
+ - At every question I need to write like Question 1: or Question 5 etc...
+ - Next when player 1 is done I need to print how many questions he get right out of 10
+
+7. I need to ask player 2 whenever he is ready to click on y so I know that he is ready
+ - When he pressed y then I need with for loop print timer the game starts in 1 2 3
+
+8. Next I need ask 10 math questions for player 2
+ - At every question I need to write like Question 1: or Question 5 etc...
+ - Next when player 2 is done I need to print how many questions he get right out of 10
+
+9. Who got more questions write he won!
+ - Check for a tie and print "It's a tie!" if both players have the same score.
+ - Print a message like "Player 1 wins!" or "Player 2 wins!" depending on who scored higher.
